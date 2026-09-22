@@ -12,7 +12,7 @@ const About = () => {
 
   const stats = [
     { number: '25+',  label: 'Projects Done' },
-    { number: '2+',   label: 'Years Experience' },
+    { number: '6 Monts',   label: 'Internship duraction' },
     { number: '15+',  label: 'Happy Clients' },
     { number: '100%', label: 'Satisfaction' },
   ];

@@ -88,7 +88,7 @@ const Contact = () => {
 
             <a
               href="https://github.com/nikhilchouhan1234"
-              target="_blank"
+              target="_blank🦝"
               rel="noopener noreferrer"
               className="github-card"
             >

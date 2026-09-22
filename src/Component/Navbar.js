@@ -24,7 +24,7 @@ const Navbar = () => {
         {/* Logo */}
         <a href="#home" className="navbar-logo">
           <span className="logo-dot"></span>
-          My<span className="logo-highlight">Logo</span>
+          Nikhil<span className="logo-highlight">Chouhan</span>
         </a>
 
         {/* Hamburger */}

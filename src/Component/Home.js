@@ -89,7 +89,7 @@ const Home = () => {
             <span className="dot"></span> Available for work
           </div>
           <div className="float-card float-2">
-            💻 2+ Years Experience
+            💻 building projects
           </div>
         </div>
       </div>

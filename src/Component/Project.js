@@ -8,7 +8,7 @@ const Projects = () => {
       category: 'Web Design',
       description:
         'A modern dance academy website with class schedules, trainer profiles, and an online booking system.',
-      tech: ['React', 'CSS', 'Node.js'],
+      tech: ['React', 'CSS', 'Django'],
       color: 'cyan',
       link: '#',
       image:
@@ -19,7 +19,7 @@ const Projects = () => {
       category: 'E-Commerce',
       description:
         'An online furniture shopping website — with product listing, cart, checkout, and payment integration.',
-      tech: ['React', 'MongoDB', 'Stripe'],
+      tech: ['React', ],
       color: 'pink',
       link: '#',
       image:
@@ -30,7 +30,7 @@ const Projects = () => {
       category: 'Web App',
       description:
         'A restaurant website with menu display, online table booking, and a food ordering system.',
-      tech: ['React', 'Node.js', 'Express'],
+      tech: ['React', , 'Express'],
       color: 'lime',
       link: '#',
       image:
